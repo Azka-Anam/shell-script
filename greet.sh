@@ -1,5 +1,5 @@
 #!/bin/bash
 read -p "whats your name?" azka
-echo "welcome, $name!"
-echo "today is:$ (date)"
-echo "hello, $name! welcome to shell scripting."
+echo "welcome, $azka!"
+echo "today is:$ (06-10-25)"
+echo "hello, $azka! welcome to shell scripting."
